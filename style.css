@@ -10,7 +10,15 @@ flex-direction: column;
     width: 100%;
     background-color: #f0f0f0;
 }
+#Textarea{
+    width: 13%;
+    
 
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
 .button{
     font-weight: 600;
  height: 40px;
