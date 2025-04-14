@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.CONTAINER{
+display: flex;
+flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #f0f0f0;
+}
+
+.button{
+    font-weight: 600;
+ height: 40px;
+ width: 45px;
+    margin: 3px 2px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.button:active{
+    background-color: #ccc;
+}
+.button:hover{
+    border: 3px solid black;
+}
